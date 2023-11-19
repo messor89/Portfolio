@@ -23,6 +23,7 @@ Despite currently having no professional experience, I have actively pursued sel
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+![Screenshot 2023-11-19 130851](https://github.com/messor89/Portfolio/assets/52599741/f8cadd02-e4ee-4d04-a375-95164db50f5c)
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
