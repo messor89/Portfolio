@@ -8,7 +8,7 @@
 Despite currently having no professional experience, I have actively pursued self-learning opportunities, delving into areas such as network security, cryptography fundamentals, and ethical hacking techniques. I thrive on the challenge of solving complex problems and remain committed to continuous learning and skill enhancement.</h2>
 
 - <b> My Cybersecurity Project</b>
-  - [Praciting Arp-spoofing with Cisco Packet Tracer]https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
+  - [Praciting Arp-spoofing with Cisco Packet Tracer] https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
