@@ -8,15 +8,9 @@
 
 
 Despite currently having no professional experience, I have actively pursued self-learning opportunities, delving into areas such as network security, cryptography fundamentals, and ethical hacking techniques. I thrive on the challenge of solving complex problems and remain committed to continuous learning and skill enhancement.</h2>
-<style>
-  body {
-  <background-image: url![Cover-Cyber-Security-1-1600x600](https://github.com/messor89/Portfolio/assets/52599741/b8c9d3b0-e698-4ac8-baa1-5ef4bbc659d3);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  
-  } </style>
+
+https://img.shields.io/badge/My-Projects-blue
+
 
 - <b> My Cybersecurity Project</b>
   - [Praciting Arp-spoofing with Cisco Packet Tracer] https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
