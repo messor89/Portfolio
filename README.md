@@ -40,7 +40,7 @@ Skills:
 <br>
 <br>
 
-
+https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab
 
 
 
