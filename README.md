@@ -1,8 +1,8 @@
 
-<html>
-<h1>Hi, My name is  Tamas! 
+
+Hi, My name is  ![Tamas](https://img.shields.io/badge/Tamas-red)
   
-<a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a></h1>
+<h2><a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a>
 
 <h2>My passion for cybersecurity sparked from a keen interest in understanding the digital world's intricacies, and I'm excited to embark on a career path that allows me to contribute my skills and dedication.
 
@@ -13,7 +13,8 @@ Despite currently having no professional experience, I have actively pursued sel
 
 
 - <b> My Cybersecurity Project</b>
-  - [Praciting Arp-spoofing with Cisco Packet Tracer] https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
+  - [Praciting Arp-spoofing with Cisco Packet Tracer]
+  - https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
 - <b>Vulnerability Assesment using Windows 10 and Tenable Nessus</b>
   - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) 
 - <b>Wireshark-Network analysis + Vulnerability exploit using Kali linux</b>
@@ -58,5 +59,5 @@ Despite currently having no professional experience, I have actively pursued sel
  tamasvali1@gmail.com, 07857763469
 <br>
 <br>
-![Tamas' Github Stats](https://github-readme-stats.vercel.app/api?username=messor89-sj&count_private=true&show_icons=true&include_all_commits=true)
+
 </html>
