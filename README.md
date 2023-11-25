@@ -36,16 +36,17 @@ Skills:
 
 ![Kali Linux](https://img.shields.io/badge/-KaliLinux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![VMWare](https://img.shields.io/badge/-VMWare-black?logo=vmware&style=social)&nbsp;&nbsp;
+![ISC2](https://img.shields.io/badge/-ISC2-black?logo=isc2&style=social)&nbsp;&nbsp;
+![IBM](https://img.shields.io/badge/-IBM-black?logo=IBM&style=social)&nbsp;&nbsp;
 
 
 
 
 
 
-
-
-
-[Linkedin]: www.linkedin.com/in/tamas-vali-a25832149
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=social)&nbsp;&nbsp;
+: www.linkedin.com/in/tamas-vali-a25832149
 
 - 🔭 I’m currently working to improve my Active Directory and Network Analysis knowledge
 
