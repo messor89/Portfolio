@@ -1,6 +1,6 @@
 
 
-Hi, My name is  ![Tamas](https://img.shields.io/badge/Tamas-red)
+Hi, My name is  ![Tamas](https://img.shields.io/badge/Tamas-red) 👋
   
 <h2><a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a>
 
