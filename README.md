@@ -9,7 +9,7 @@
 
 Despite currently having no professional experience, I have actively pursued self-learning opportunities, delving into areas such as network security, cryptography fundamentals, and ethical hacking techniques. I thrive on the challenge of solving complex problems and remain committed to continuous learning and skill enhancement.</h2>
 
-https://img.shields.io/badge/My-Projects-blue
+![MyProjects](https://img.shields.io/badge/My-Projects-blue)
 
 
 - <b> My Cybersecurity Project</b>
