@@ -42,8 +42,8 @@ Despite currently having no professional experience, I have actively pursued sel
 ![IBM](https://img.shields.io/badge/-IBM-black?logo=IBM&style=social)&nbsp;&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-black?logo=GIT&style=social)&nbsp;&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?logo=wireshark&style=social)&nbsp;&nbsp;
-
-
+![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?logo=tryhackme&style=social)&nbsp;&nbsp;
+![Hack The Box](https://img.shields.io/badge/-HackTheBox-black?logo=Hackthebox&style=social)&nbsp;&nbsp;
 
 
 
