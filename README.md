@@ -11,33 +11,18 @@ Despite currently having no professional experience, I have actively pursued sel
   - [Praciting Arp-spoofing with Cisco Packet Tracer] https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
 - <b>Vulnerability Assesment using Windows 10 and Tenable Nessus</b>
   - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) <b><i>(Potentially NSFW)</b>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Wireshark-Network analysis + Vulnerability exploit using Kali linux</b>
+  - (https://github.com/messor89/Portfolio/blob/main/wireshark%2Bexploit.md)
+
+Skills:
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/tamas-vali-a25832149
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working to improve my Active Directory and Network Analysis knowledge
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Cybersecurity Technician provided by EC-Council
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: tamasvali1@gmail.com, 07857763469
+
