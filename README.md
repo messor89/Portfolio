@@ -1,6 +1,6 @@
 <h1>Hi, My name is  Tamas! 
   
-<br/><a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a></h1>
+<a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a></h1>
 
 <h2>My passion for cybersecurity sparked from a keen interest in understanding the digital world's intricacies, and I'm excited to embark on a career path that allows me to contribute my skills and dedication.
 
@@ -23,7 +23,11 @@ Skills:
 - Teamwork
 - An inquisitive nature and a keen interest in the IT sector
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
