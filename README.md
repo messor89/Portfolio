@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <h1>Hi, My name is  Tamas! 
   
 <a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a></h1>
@@ -50,3 +52,4 @@ Skills:
 
 - 📫 How to reach me: tamasvali1@gmail.com, 07857763469
 
+</html>
