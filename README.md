@@ -10,7 +10,7 @@ Despite currently having no professional experience, I have actively pursued sel
 - <b> My Cybersecurity Project</b>
   - [Praciting Arp-spoofing with Cisco Packet Tracer] https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
 - <b>Vulnerability Assesment using Windows 10 and Tenable Nessus</b>
-  - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) <b><i>(Potentially NSFW)</b>
+  - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) 
 - <b>Wireshark-Network analysis + Vulnerability exploit using Kali linux</b>
   - (https://github.com/messor89/Portfolio/blob/main/wireshark%2Bexploit.md)
 
