@@ -56,5 +56,7 @@ Despite currently having no professional experience, I have actively pursued sel
 
 - 📫 How to reach me: ![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&style=social)&nbsp;&nbsp;
  tamasvali1@gmail.com, 07857763469
-
+<br>
+<br>
+![Tamas' Github Stats](https://github-readme-stats.vercel.app/api?username=messor89-sj&count_private=true&show_icons=true&include_all_commits=true)
 </html>
