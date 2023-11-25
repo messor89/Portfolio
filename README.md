@@ -16,9 +16,26 @@ Despite currently having no professional experience, I have actively pursued sel
 
 Skills:
 
+- Strong analytical skills
+- To be able to work effectively under pressure
+- Have a keen attention to detail
+- Strong communication skills
+- Teamwork
+- An inquisitive nature and a keen interest in the IT sector
 
 
-[linkedin]: www.linkedin.com/in/tamas-vali-a25832149
+
+
+
+
+
+
+
+
+
+
+
+[Linkedin]: www.linkedin.com/in/tamas-vali-a25832149
 
 - 🔭 I’m currently working to improve my Active Directory and Network Analysis knowledge
 
