@@ -34,8 +34,8 @@ Skills:
 <br>
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
 
