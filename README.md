@@ -53,7 +53,7 @@ Despite currently having no professional experience, I have actively pursued sel
 
 - 🔭 I’m currently working to improve my Active Directory and Network Analysis knowledge
 
-- 🌱 I’m currently learning Cybersecurity Technician provided by EC-Council
+- 🌱 I’m currently learning Cybersecurity Technician course provided by EC-Council
 
 - 📫 How to reach me: ![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&style=social)&nbsp;&nbsp;
  tamasvali1@gmail.com, 07857763469
