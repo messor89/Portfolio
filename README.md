@@ -33,6 +33,13 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
 - Teamwork
 - An inquisitive nature and a keen interest in the IT sector
 
+
+
+
+![curriculum vitae](https://img.shields.io/badge/Curriculum-Vitae-darkred)
+
+
+(https://github.com/messor89/Portfolio/blob/main/TVCV.pdf)
 <br>
 <br>
 <br>
