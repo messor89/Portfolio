@@ -23,6 +23,8 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
   - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) 
 - <b>Wireshark-Network analysis + Vulnerability exploit using Kali linux</b>
   - (https://github.com/messor89/Portfolio/blob/main/wireshark%2Bexploit.md)
+- <b> Penetration Testing
+  - (https://github.com/messor89/Portfolio/blob/main/Penetration%20Testing.md)</br>
 
 ![Skills](https://img.shields.io/badge/Skills-orange)
 
