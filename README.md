@@ -2,16 +2,16 @@
 
 Hi, My name is  ![Tamas](https://img.shields.io/badge/Tamas-red) 👋
   
-<h2><a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a>
+<a>I am thrilled to announce that I recently became an ISC2 member after successfully passing my CC certification exam and my IBM Cybersecurity Analyst exam provided by Coursera, marking an exciting milestone in my journey toward a career in cybersecurity. </a>
 
-<h2>My passion for cybersecurity sparked from a keen interest in understanding the digital world's intricacies, and I'm excited to embark on a career path that allows me to contribute my skills and dedication.
+My passion for cybersecurity sparked from a keen interest in understanding the digital world's intricacies, and I'm excited to embark on a career path that allows me to contribute my skills and dedication.
 
 
 Despite currently having no professional experience, I have actively pursued self-learning opportunities, delving into areas such as network security, cryptography fundamentals, and ethical hacking techniques. I thrive on the challenge of solving complex problems and remain committed to continuous learning and skill enhancement.
 <br>
 <br>
 In my previous jobs, I learned a lot of essential skills, like communication, team-work, problem solving skills, analytical skills, customer service and focus skills, attention to details.
-</h2>
+
 
 ![MyProjects](https://img.shields.io/badge/My-Projects-blue)
 
