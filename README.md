@@ -66,7 +66,7 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
 
 - 🔭 I’m currently working to improve my Active Directory and Network Analysis knowledge
 
-- 🌱 I’m currently learning Cybersecurity Technician course provided by EC-Council
+- 🌱 I’m currently learning more about Penetration Testin, and preparing for eJPT
 
 - 📫 How to reach me: ![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&style=social)&nbsp;&nbsp;
  tamasvali1@gmail.com, 07857763469
