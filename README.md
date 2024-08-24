@@ -21,10 +21,10 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
   - https://github.com/messor89/Portfolio/blob/main/Arp-spoofing.md
 - <b>Vulnerability Assesment using Windows 10 and Tenable Nessus</b>
   - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) 
-- <b>Wireshark-Network analysis + Vulnerability exploit using Kali linux</b>
-  - (https://github.com/messor89/Portfolio/blob/main/wireshark%2Bexploit.md)
-- <b> Penetration Testing
-  - (https://github.com/messor89/Portfolio/blob/main/Penetration%20Testing.md)</br>
+- <b>Penetration Testing Project 1</b>
+  - (https://github.com/messor89/Portfolio/blob/main/Penetration%20testing%20Project%201.md))
+- <b> Penetration Testing Project 2
+  - (https://github.com/messor89/Portfolio/blob/main/Penetration%20Testing%20Project%202.md)</br>
 
 ![Skills](https://img.shields.io/badge/Skills-orange)
 
