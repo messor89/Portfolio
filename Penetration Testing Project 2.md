@@ -1,4 +1,4 @@
-Penetration Testing Project
+Penetration Testing Project 2
 
 Project Title: Exploting Telnet with RAW payload.
 Objective: Assess the security posture of a network to identify and address potential vulnerabilities.
