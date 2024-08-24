@@ -1,6 +1,19 @@
-This time, I wanted to do something what I have never done before. 
+Penetration Testing Project 1
 
-Using Metasploitable and Kali linux, I wanted to do a Ddos attack on the Windows MAchine, and Capture the packets with Wireshark.
+Project Title: Ddos and Telnet exploit 
+
+Objective: Assess the security posture of a network to identify and address potential vulnerabilities.
+
+Scope: The assessment covered internal network infrastructure, TCP/IP and access controls. This involved testing Telnet vulnerabilities and potential attack vectors that could be exploited by an attacker. Also wanted to show how Wireshark can identify a Ddos attack with Syn flood.
+
+Tools and Techniques:
+
+Nmap: Used for network discovery and identifying open ports and services. 
+Metasploit: Utilized for exploiting discovered vulnerabilities and validating their impact.
+Wireshark: Network Analysis tool
+ 
+
+Using Metasploitable on Kali linux, I wanted to do a Ddos attack on the Windows Machine, and Capture the packets with Wireshark.
 
 So on Kali linux I used the Metasploit framwork, start it with the command msfconsole, and was looking for a Ddos attack.
 
@@ -24,7 +37,7 @@ CVE 2011-2523 : vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
 
 Straight way back to the Metasploit framework, and was looking for this exploit. 
 
-As We can see, I have found the eploit, so I checked the options, with the "show options" command, and All I needed to do is to set the RHOST.
+As We can see, I have found the exploit, so I checked the options, with the "show options" command, and All I needed to do is to set the RHOST.
 
 
 ![Screenshot 2023-11-25 180135](https://github.com/messor89/Portfolio/assets/52599741/2e893dc9-fc11-4f6d-b5a7-bd78435c960c)
