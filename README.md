@@ -22,9 +22,9 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
 - <b>Vulnerability Assesment using Windows 10 and Tenable Nessus</b>
   - (https://github.com/messor89/Portfolio/blob/main/Vulnerability.md) 
 - <b>Penetration Testing Project 1</b>
-  - (https://github.com/messor89/Portfolio/blob/main/Penetration%20testing%20Project%201.md))
+  - (https://github.com/messor89/Portfolio/blob/main/Penetration_Testing_Project_1.md))
 - <b> Penetration Testing Project 2
-  - (https://github.com/messor89/Portfolio/blob/main/Penetration%20Testing%20Project%202.md)</br>
+  - (https://github.com/messor89/Portfolio/blob/main/Penetration_Testing_Project_2.md)</br>
 
 ![Skills](https://img.shields.io/badge/Skills-orange)
 
