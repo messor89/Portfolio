@@ -41,7 +41,7 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
 ![curriculum vitae](https://img.shields.io/badge/Curriculum-Vitae-darkred)
 
 
-(https://github.com/messor89/Portfolio/blob/main/CV.pdf))
+(https://github.com/messor89/Portfolio/blob/main/Tamas%20Vali%20CV.pdf)
 <br>
 <br>
 <br>
