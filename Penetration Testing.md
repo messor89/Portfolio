@@ -1,3 +1,17 @@
+Penetration Testing Project
+
+Project Title: Exploting Telnet with RAW payload.
+Objective: Assess the security posture of a network to identify and address potential vulnerabilities.
+
+Scope: The assessment covered internal network infrastructure, TCP/IP and access controls. This involved testing Telnet vulnerabilities and potential attack vectors that could be exploited by an attacker.
+
+Tools and Techniques:
+
+Nmap: Used for network discovery and identifying open ports and services.
+Metasploit(msfvenom): Utilized for exploiting discovered vulnerabilities and validating their impact.
+
+On the internet you can find how to exploit telnet connection easly, but all source showing the same method again and again.
+
 There is an other way to exploit telnet connection, as You can see on exploit-db, there is a script to exploit it, so I copied it to Nano editor, and saved it as a python file.
 
 ![Screenshot 2023-11-27 224057](https://github.com/messor89/Portfolio/assets/52599741/da9991c7-aed5-4e54-b084-33b8fa963731)
@@ -28,6 +42,12 @@ And the result is........
 
 
 ![Screenshot 2023-11-27 224528](https://github.com/messor89/Portfolio/assets/52599741/b10b5f53-e808-4a47-aa00-34cd02f8a6b1)
+
+Key Findings:
+
+Critical Vulnerabilities: Discovered several critical vulnerabilities, including open ports.
+
+Recommendations: Close the ports what are not in use, and make sure they are secure.
 
 
 
