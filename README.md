@@ -26,7 +26,7 @@ In my previous jobs, I learned a lot of essential skills, like communication, te
 - <b> Penetration Testing Project 2
   - (https://github.com/messor89/Portfolio/blob/main/Penetration_Testing_Project_2.md)</br>
 
-![Skills](https://img.shields.io/badge/Skills-orange)
+![Basic Skills](https://img.shields.io/badge/Skills-orange)
 
 - Strong analytical skills
 - To be able to work effectively under pressure
