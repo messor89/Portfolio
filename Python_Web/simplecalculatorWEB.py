@@ -42,5 +42,5 @@ if div_button:
 
 st.markdown(f"<h1 style='font-size: 50px; color: white;'>The result is: {result}</h1>", unsafe_allow_html=True)
 
-st.write(st.session_state)
+
     
