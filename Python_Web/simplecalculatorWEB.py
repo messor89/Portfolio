@@ -40,7 +40,7 @@ if div_button:
         result =  st.session_state.number1 / st.session_state.number2
 
 
-st.markdown(f"<h1 style='font-size: 50px; color: red;'>The result is: {result}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='font-size: 50px; color: #0072B2;'>The result is: {result}</h1>", unsafe_allow_html=True)
 
 
     
