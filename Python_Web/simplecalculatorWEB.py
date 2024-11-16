@@ -6,10 +6,10 @@ st.subheader("This is my calculator app")
 
 
 st.number_input(label="Add a number", placeholder="Type here...",
-               key="number1", value=None)
+               key="number1", value=None, format="%f")
 
 st.number_input(label="Add a number", placeholder="Type here...",
-               key="number2", value=None)
+               key="number2", value=None, format="%f")
 result = ""
 col1, col2, col3, col4 = st.columns(4)
 with col1: 
