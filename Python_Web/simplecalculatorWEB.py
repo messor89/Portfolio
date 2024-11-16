@@ -35,12 +35,12 @@ if multi_button:
 if div_button:
     if st.session_state.number2 == 0:
         
-        st.markdown(f"<h2 style='font-size: 50px; color: white;'>You can not divide by 0</h2>", unsafe_allow_html=True)
+        st.markdown(f"<h2 style='font-size: 50px; color: red;'>You can not divide by 0</h2>", unsafe_allow_html=True)
     else:
         result =  st.session_state.number1 / st.session_state.number2
 
 
-st.markdown(f"<h1 style='font-size: 50px; color: white;'>The result is: {result}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='font-size: 50px; color: red;'>The result is: {result}</h1>", unsafe_allow_html=True)
 
 
     
